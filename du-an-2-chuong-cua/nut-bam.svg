@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 80" font-family="Arial, sans-serif">
+  <!-- Nút bấm (Push Button) - reusable -->
+  <!-- Thân nút -->
+  <rect x="10" y="15" width="50" height="35" rx="4" fill="#555" stroke="#333" stroke-width="2"/>
+  <!-- Nút nhấn -->
+  <circle cx="35" cy="32" r="12" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <!-- 4 chân -->
+  <line x1="18" y1="50" x2="18" y2="70" stroke="#bdc3c7" stroke-width="2.5"/>
+  <line x1="52" y1="50" x2="52" y2="70" stroke="#bdc3c7" stroke-width="2.5"/>
+  <line x1="18" y1="15" x2="18" y2="0" stroke="#bdc3c7" stroke-width="2.5"/>
+  <line x1="52" y1="15" x2="52" y2="0" stroke="#bdc3c7" stroke-width="2.5"/>
+</svg>
